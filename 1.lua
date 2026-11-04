@@ -519,7 +519,7 @@ end
 local LICENSE_EXPIRY = {
     year   = 2026,
     month  = 11,
-    day    = 15,
+    day    = 9,
     hour   = 23,
     minute = 59,
     second = 59
